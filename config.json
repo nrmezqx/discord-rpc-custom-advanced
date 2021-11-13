@@ -19,7 +19,7 @@
                 "buttonRedirectUrl": ""
             }
         },
-        "timestamps": { //Dont writte or change timestamps
+        "timestamps": {
             "startTimestamp": "",
             "endTimestamp": "",
             "useTimer": false
