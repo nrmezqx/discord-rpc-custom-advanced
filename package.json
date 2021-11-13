@@ -1,0 +1,15 @@
+{
+  "name": "simple-discord-rpc",
+  "version": "1.0.0",
+  "description": "Very advanced custom Discord RPC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nrmezqx",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "discord-rpc": "^3.1.4"
+  }
+}

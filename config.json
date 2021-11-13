@@ -1,0 +1,28 @@
+{
+    "clientId": "",
+    "rich_presence": {
+            "details": "",
+            "state": "",
+        "assets": {
+            "largeImageText": "",
+            "largeImageKey": "",
+            "smallImageText": "",
+            "smallImageKey": ""
+        },
+        "buttons": {
+            "primary": {
+                "buttonLabelText": "",
+                "buttonRedirectUrl": ""
+            },
+            "secondary": {
+                "buttonLabelText": "",
+                "buttonRedirectUrl": ""
+            }
+        },
+        "timestamps": { //Dont writte or change timestamps
+            "startTimestamp": "",
+            "endTimestamp": "",
+            "useTimer": false
+        }
+    }
+}
